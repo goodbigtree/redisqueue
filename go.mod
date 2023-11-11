@@ -1,4 +1,4 @@
-module github.com/go-admin-team/redisqueue/v2
+module github.com/goodbigtree/redisqueue
 
 go 1.20
 
